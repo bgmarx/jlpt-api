@@ -4,8 +4,8 @@ class CreateCompounds < ActiveRecord::Migration
       t.uuid   :kanji_id
       t.string :word
       t.string :kana
-      t.string :definition
-      t.string :grammar_type
+      t.string :definitions,   array: true, default: []
+      t.string :grammar_type, array: true, default: []
 
       t.timestamps
     end

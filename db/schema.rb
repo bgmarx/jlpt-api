@@ -21,19 +21,22 @@ ActiveRecord::Schema.define(version: 20141007065218) do
     t.uuid     "kanji_id"
     t.string   "word"
     t.string   "kana"
-    t.string   "definition"
-    t.string   "grammar_type"
+    t.string   "definitions",  default: [], array: true
+    t.string   "grammar_type", default: [], array: true
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "kanjis", id: :uuid, default: "uuid_generate_v4()", force: true do |t|
     t.string   "kanji"
-    t.string   "kunyomi"
-    t.string   "onyomi"
-    t.string   "level"
-    t.string   "definitions", default: [], array: true
-    t.string   "tags",        default: [], array: true
+    t.string   "kunyomi",              default: [], array: true
+    t.string   "onyomi",               default: [], array: true
+    t.integer  "level"
+    t.string   "definitions",          default: [], array: true
+    t.string   "tags",                 default: [], array: true
+    t.integer  "stroke_order"
+    t.integer  "jis"
+    t.datetime "compounds_updated_at"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

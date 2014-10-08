@@ -1,0 +1,103 @@
+"“""",一,"“""","イチ, イツ","ひと-, ひと.つ","one, one radical (no.1)"
+"“""",七,"“""",シチ,"なな, なな.つ, なの",seven
+,万,,"マン, バン",よろず,ten thousand
+,三,,"サン, ゾウ","み, み.つ, みっ.つ",three
+,上,,"ジョウ, ショウ, シャン","うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, よ.す","above, up"
+,下 ,,"カ, ゲ","した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる","below, down, descend, give, low, inferior"
+,中,,チュウ,"なか, うち, あた.る","in, inside, middle, mean, center"
+,九,,"キュウ, ク","ここの, ここの.つ",nine
+,ニ,,"ニ, ジ","ふた, ふた.つ, ふたた.び","two, two radical (no.2)"
+,五,,ゴ,"いつ, いつ.つ",five
+,人,,"ジン, ニン","ひと, -り, -と",person
+,今,,"コン, キン",いま,now
+,休,,キュウ,"やす.む, やす.まる, やす.める","rest, day off, retire, sleep"
+,会,,"カイ, エ","あ.う, あ.わせる, あつ.まる","meeting, meet, party, association, interview, join"
+,何,,カ,"なに, なん, なに-, なん-",what
+,先,,セン,"さき, ま.ず","before, ahead, previous, future, precedence"
+,入,,"ニュウ, ジュ","い.る, -い.る, -い.り, い.れる, -い.れ, はい.る","enter, insert"
+,八,,ハチ,"や, や.つ, やっ.つ, よう","eight, eight radical (no. 12)"
+,六,,"ロク, リク","む, む.つ, むっ.つ, むい",six
+,円,,エン,"まる.い, まる, まど, まど.か, まろ.やか","circle, yen, round"
+,出,,"シュツ, スイ","で.る, -で, だ.す, -だ.す, い.でる, い.だす","exit, leave"
+,分,,"ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ","part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100"
+,前,,ゼン,"まえ, -まえ","in front, before"
+,北,,ホク,きた,north
+,十,,"ジュウ, ジッ, ジュッ","とお, と",ten
+,千,,セン,ち,thousand
+,午,,ゴ,うま,"noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac"
+,半,,ハン,なか.ば,"half, middle, odd number, semi-, part-"
+,南,,"ナン, ナ",みなみ,south
+,友,,ユウ,とも,friend
+,口,,"コウ, ク",くち,mouth
+,古,,コ,"ふる.い, ふる-, -ふる.す",old
+,右,,"ウ, ユウ",みぎ,right
+,名,,"メイ, ミョウ","な, -な","name, noted, distinguished, reputation"
+,四,,シ,"よ, よ.つ, よっ.つ, よん",four
+,国,,コク,くに,country
+,土,,"ド, ト",つち,"soil, earth, ground, Turkey"
+,外,,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",outside
+,多,,タ,"おお.い, まさ.に, まさ.る","many, frequent, much"
+,大,,"ダイ, タイ","おお-, おお.きい, -おお.いに","large, big"
+,天,,テン,"あまつ, あめ, あま-","heavens, sky, imperial"
+,女,,"ジョ, ニョ, ニョウ","おんな, め","woman, female"
+,子,,"シ, ス, ツ","こ, -こ, ね","child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+,学,,ガク,まな.ぶ,"study, learning, science"
+,安,,アン,"やす.い, やす.まる, やす, やす.らか","relax, cheap, low, quiet, rested, contented, peaceful"
+,小,,ショウ,"ちい.さい, こ-, お-, さ-","little, small"
+,少,,ショウ,"すく.ない, すこ.し","few, little"
+,山,,"サン, セン",やま,mountain
+,川,,セン,かわ,"stream, river, river or 3-stroke river radical (no. 47)"
+,左,,"サ, シャ",ひだり,left
+,年,,ネン,とし,"year, counter for years"
+,店,,テン,"みせ, たな","store, shop"
+,後,,"ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる","behind, back, later"
+,手,,"シュ, ズ","て, て-, -て, た-",hand
+,新,,シン,"あたら.しい, あら.た, あら-, にい-",new
+,日,,"ニチ, ジツ","ひ, -び, -か","day, sun, Japan, counter for days"
+,時,,ジ,"とき, -どき","time, hour"
+,書,,ショ,"か.く, -が.き, -がき",write
+,月,,"ゲツ, ガツ",つき,"month, moon"
+,木,,"ボク, モク","き, こ-","tree, wood"
+,本,,ホン,もと,"book, present, main, true, real, counter for long cylindrical things"
+,来,,"ライ, タイ","く.る, きた.る, きた.す, き.たす, き.たる, き, こ","come, due, next, cause, become"
+,東,,トウ,ひがし,east
+,校,,"コウ, キョウ",—,"exam, school, printing, proof, correction"
+,母,,ボ,"はは, も","mama, mother"
+,毎,,マイ,"ごと, -ごと.に",every
+,気,,"キ, ケ",いき,"spirit, mind, air, atmosphere, mood"
+,水,,スイ,"みず, みず-",water
+,火,,カ,"ひ, -び, ほ-",fire
+,父,,フ,ちち,father
+,生,,"セイ, ショウ","い.きる, い.かす, い.ける, う.まれる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う","life, genuine, birth"
+,男,,"ダン, ナン","おとこ, お",male
+,白,,"ハク, ビャク","しろ, しら-, しろ.い",white
+,百,,"ヒャク, ビャク",もも,hundred
+,目,,"モク, ボク","め, -め, ま-","eye, class, look, insight, experience, care, favor"
+,社,,シャ,やしろ,"company, firm, office, association, shrine"
+,空,,クウ,"そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい","empty, sky, void, vacant, vacuum"
+,立,,"リツ, リュウ, リットル","た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",stand up
+,耳,,ジ,みみ,ear
+,聞,,"ブン, モン","き.く, き.こえる","hear, ask, listen"
+,花,,"カ, ケ",はな,flower
+,行,,"コウ, ギョウ, アン","い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう","going, journey"
+,西,,"セイ, サイ, ス",にし,"west, Spain"
+,見,,ケン,"み.る, み.える, み.せる","see, hopes, chances, idea, opinion, look at, visible"
+,言,,"ゲン, ゴン","い.う, こと",say
+,話,,ワ,"はな.す, はなし","tale, talk"
+,語,,ゴ,"かた.る, かた.らう","word, speech, language"
+,読,,"ドク, トク, トウ","よ.む, -よ.み",read
+,買,,バイ,か.う,buy
+,足,,ソク,"あし, た.りる, た.る, た.す","leg, foot, be sufficient, counter for pairs of footwear"
+,車,,シャ,くるま,car
+,週,,シュウ,—,week
+,道,,"ドウ, トウ",みち,"road-way, street, district, journey, course, moral, teachings"
+,金,,"かね, かな-, -がね","かね, かな-, -がね",gold
+,長 ,,チョウ,"なが.い, おさ","long, leader"
+,間,,"カン, ケン","あいだ, ま, あい","interval, space"
+,雨,,ウ,"あめ, あま-, -さめ",rain
+,電,,デン,—,electricity
+,食,,"ショク, ジキ","く.う, く.らう, た.べる, は.む","eat, food"
+,飲,,"イン, オン","の.む, -の.み","drink, smoke, take"
+,駅,,エキ,—,station
+,高,,コウ,"たか.い, たか, -だか, たか.まる, たか.める","tall, high, expensive"
+,魚,,ギョ,"うお, さかな, -ざかな",fish
