@@ -18,10 +18,11 @@ ActiveRecord::Schema.define(version: 20141007065218) do
   enable_extension "uuid-ossp"
 
   create_table "compounds", id: :uuid, default: "uuid_generate_v4()", force: true do |t|
+    t.uuid     "kanji_id"
     t.string   "word"
     t.string   "kana"
     t.string   "definition"
-    t.string   "type"
+    t.string   "grammar_type"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -40,10 +41,10 @@ ActiveRecord::Schema.define(version: 20141007065218) do
   create_table "vocabularies", id: :uuid, default: "uuid_generate_v4()", force: true do |t|
     t.string   "kana"
     t.string   "kanji"
-    t.string   "type"
+    t.string   "grammar_type"
     t.string   "level"
-    t.string   "definitions", default: [], array: true
-    t.string   "tags",        default: [], array: true
+    t.string   "definitions",  default: [], array: true
+    t.string   "tags",         default: [], array: true
     t.datetime "created_at"
     t.datetime "updated_at"
   end
