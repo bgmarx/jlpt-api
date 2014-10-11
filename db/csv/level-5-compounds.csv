@@ -1,21 +1,232 @@
-一,一,ひと,one,"numeric, prefix, suffix",,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+一,一,ひと,one,"numeric, prefix, suffix"
+一,一,ひとつ,"one, for one thing, only, even ","noun, adj-no"
+一,一握り,ひとにぎり,"handful, small handful","noun, adj-no"
+一,一員,いちいん,"person, member",
+一,一円,いちえん,"whole district, one yen, throughout","noun, adverb"
+七,七,な,seven,number
+万,万一,まんいつ,"by some chance, by some possibility, 10,000 to 1 odds","adverb, noun"
+万,万引き,まんびき,"shoplifting, shoplifter","noun, vs"
+万,万事,ばんじ,"all, everything","noun, adj-no"
+万,万年筆,まんねんひつ,fountain pen,noun
+万,万人,まんにん,"all people, everybody, ten thousand people",noun
+三,再三,さいさん,"again and again, repeatedly ","adverb, noun"
+三,三角,さんかく,"triangle, triangular",noun
+三,三日月,みかずき ,"new moon, crescent moon",noun
+三,三流,さんりゅう,3rd rate,noun
+三,三,み,three,numeric
+上,已上,いじょう,"not less than, ... and more, beyond","n-adv, n-t"
+上,屋上,おくじょう,rooftop,noun
+上,海上,かいじょう,"(by at on) sea, maritime, marine",adj-no
+上,見上げる,みあげる,"to look up at, to raise one's eyes, to admire","Ichidan verb, vt"
+上,向上,こうじょう ,"elevation, rise, improvement, advancement, progress","n, vs"
+下,已下,いげ,"not exceeding, downward",noun
+下,下る,さがる,"to hang down, to abate, to retire, to fall, to step back ","v5r, intransitive verb"
+下,下げる,さげる,"to hang, to lower, to move back, to wear, to dismiss, to grant","Ichidan verb, vt"
+下,下さる,くださる,"to give, to confer",Godan verb - -aru special class
+下,下り,くだり,down-train,"n, n-suf"
+中,空中 ,くうちゅう,"sky, air",n
+中,集中,しゅうちゅう,"concentration, convergence, centralization, integration, gathering together","n, vs"
+中,心中,しんじゅう,"double suicide, lovers suicide","n, vs"
+中,真最中,まっさいちゅう,"midst, middle of, height of ","n-adv, n"
+中,真夜中,まよなか,"dead of night, midnight","n-adv, n-t"
+九,九,ここ,nine,numeric
+二,二男,じなん,second son,n
+二,二子,ふたご,"twins, a twin",n
+二,二,ふう,two,numeric
+二,二階,にかい,"second floor, upstairs",n
+二,二重,ふたえ,"double, two-fold, two layers, duplex","n, adj-no"
+五,五,い ,five,numeric
+五,五十音,ごじゅうおん,the Japanese syllabary,n
+五,五分,ごぶ,"half, 50%, tie, evenness, 5 parts, 5%","n-adv, n"
+五,四捨五入,ししゃごにゅう,rounding up (esp. fractions) ,"n, vs"
+人,悪人,あくにん,"bad man, villain ",n
+人,偉人,いじん ,great man,n
+人,一人前,ひとりまえ,"adult, full manhood or womanhood, one helping, one portion",n
+人,恩人,おんじん,"benefactor, patron",n
+人,外国人,がいこくじん,foreigner,n
+今,今,いま,"now, the present time, just now, soon, immediately, (one) more ","n-adv, n"
+今,今に,いまに,"before long, even now ",adv
+今,今回,こんかい,"now, this time, lately","n-adv, n-t"
+今,今月,こんげつ,this month,"n-adv, n-t"
+今,今後,こんご,"from now on, hereafter","n-adv, n-t"
+休,運休,うんきゅう ,service suspended (eg trains),"n, vs"
+休,夏休み,なつやすみ,"summer vacation, summer holiday",n
+休,休み,やすみ ,"rest, vacation, holiday, absence",n
+休,休む,やすむ,"to be absent, to take a day off, to rest, to have a break","v5m, intransitive verb"
+休,休暇,きゅうか,"holiday, day off, furlough",n
+会,委員会,いいんかい,"committee meeting, committee",n
+会,運動会 ,うんどうかい,athletic meet,n
+会,宴会,えんかい,"party, banquet",n
+会,会員,かいいん,"member, the membership",n
+会,会議,かいぎ,"meeting, conference","n, vs"
+何,何か,なんか,something,exp
+何,何しろ,なにしろ,"at any rate, anyhow, anyway, in any case","adv, conjunction"
+何,何だか,なんだか,"(a) little, somewhat, somehow",adv
+何,何て,なんて,"how ..!, what ..!, what (questioning)","adj-f, adv"
+何,何と ,なんと,"what, how, whatever",adv
+先,勤め先,つとめさき,place of work,n
+先,口先,くちさき,"lip service, mere words, professions, lips, mouth, snout, proboscis",n
+先,最先端,さいせんたん,"leading edge, at the forefront, ultra-fine","n, adj-no"
+先,真っ先,まっさき,"the head, the foremost, beginning",n
+先,先決,せんけつ,"previous decision, deciding in advance","n, vs"
+入,加入,かにゅう,"becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing","n, vs"
+入,落ち入る,おちいる,"to fall, to trap, to cave in, to collapse","v5r, intransitive verb"
+入,気に入る,きにいる,"to be pleased with, to suit",v5r
+入,記入,きにゅう,"entry, filling in of forms","n, vs"
+入,購入,こうにゅう,"purchase, buy","n, vs"
+八,八つあたり,やつあたり ,outburst of anger,n
+八,八百屋 ,やおや,greengrocer,n
+八,八,や ,eight,numeric
+六,六,むう ,six,numeric
+円,一円,いちえん,"whole district, one yen, throughout","adv, n"
+円,円,まる,"Yen, money, circle","n, n"
+円,円安,えんやす,cheap yen,n
+円,円高,えんだか ,"high-valued yen, exchange in favor (favour) of the yen",n
+円,円盤,えんばん,"disk, discus, platter, flying saucer",n
+出,演出,えんしゅつ,"production (eg play), direction","n, vs"
+出,家出,いえで,"running away from home, leaving home","n, vs"
+出,外出,そとで,"outing, trip, going out","n, vs"
+出,割出す,わりだす,"to calculate, to compute, to infer","v5s, vt"
+出,見出し,みだし,"heading, caption, subtitle, index",n
+分,一部分,いちぶぶん,"part, portion, section ",n
+分,引分け,ひきわけ,"draw (in competition), tie game",n
+分,塩分,えんぶん,"salt, salt content",n
+分,何分,なにぶん,"anyway, please","adv, n"
+分,幾分,いくぶん,"somewhat, to some extent","adv, n, n"
+前,御前,おめえ ,you (masc) (formerly honorific; now sometimes derog. term referring to an equal or inferior),n
+前,已前,いぜん,"ago, since, before, previous","n-adv, n-t"
+前,一人前,ひとりまえ,"adult, full manhood or womanhood, one helping, one portion",n
+前,駅前,えきまえ,in front of station,n
+前,気前,きまえ,generosity,n
+北,南北,なんぼく,south and north,n
+北,敗北 ,はいぼく,defeat (as a verb it means 'to be defeated') ,n
+北,北,きた,North,"n, vs"
+北,北極,ほっきょく,North Pole,n
+北,北西,ほくせい,northwest,n
+十,五十音,じゅうじか,the Japanese syllabary,n
+十,十字架,じゅうじか,"cross, the Cross (of Christ)",n
+十,十字路,じゅうじろ,crossroads,n
+十,不十分,ふじゅうぶん,"insufficient, inadequate, imperfect, shortage","adj-na, n"
+十,十,とお,"10, ten",numeric
+千,何千,なんぜん,many thousands,n
+千,千,ち,"1000, thousand",numeric
+午,午後,ごご,"afternoon, p.m.","n-adv, n-t"
+午,午前,ごぜん,"morning, a.m.","n-adv, n-t"
+午,正午,しょうご,"noon, mid-day","n-adv, n-t"
+午,午,ひる,"noon, midday, daytime, lunch","n-adv, n-t"
+半,過半数,かはんすう,majority,n
+半,後半,こうはん,"second half, latter half","n-adv, n"
+半,上半身,じょうはんしん,"upper half of body, bust",n
+半,大半,たいはん,"majority, mostly, generally",n
+半,半,はん,half,"n, n-adv, n-suf, n-pref"
+南,南,みなみ,south,n
+南,南極,なんきょく,"south pole, Antarctic",n
+南,南部,なんぶ ,southern part,n
+南,南北,なんぼく,south and north,n
+南,南西,みなみにし,southwest,n
+友,親友,しんゆう,"close friend, bosom (old, intimate) friend, buddy, crony, chum",n
+友,友好,ゆうこう ,friendship,n
+友,友情 ,ゆうじょう,"friendship, fellowship",n
+友,友人,ゆうじん,friend,n
+友,友だち,ともだち,"friend, companion",n
+口,ひと口 ,ひと口,"mouthful, bite, sip, draft, draught, one word ",n
+口,口,くち,"mouth, opening, hole, gap","n, suffix, counter"
+口,口語,こうご,"spoken language, literary style based on (modern) spoken language",n
+口,口紅,くちべに,lipstick,n
+口,口止め,くちどめ ,"forbidding to speak, muzzling (a person)","n, vs"
+古,稽古,けいこ,"practice, practise, training, study","n, vs"
+古,古代,こだい ,ancient times,"adj-na, n-adv, n-t"
+古,古典,こてん,"old book, classics, classic",n
+古,中古,ちゅうぶる,"used, second-hand, old, Middle Ages","n-t, n"
+古,古本,こほん,"secondhand book, ancient book, antiquarian books ","n, n"
+右 ,右,みぎ,"right, right hand side",n
+右 ,右手,みぎて,right hand,n
+右 ,右翼,うよく,right-wing ,n
+右 ,左右,さゆう,"left and right, influence, control, domination","n, vs"
+右 ,右側,うそく,"right side, right hand",n
+名,国名 ,こくめい,country name ,n
+名,氏名,しめい,"full name, identity",n
+名,実名,じつめい,real name,n
+名,署名,しょめい,signature,"n, vs"
+名,人名,じんめい,person's name,n
+四,四角,しかく,square,"adj-na, n"
+四,四角い,しかくい,"square, rectangular",adj
+四,四季,しき,four seasons,n
+四,四捨五入,ししゃごにゅう,rounding up (esp. fractions) ,"n, vs"
+四,四方,よも,every direction,n
+国,王国 ,おうこく,"kingdom, monarchy ",n
+国,外国,がいこく,foreign country,n
+国,外国語,がいこくご ,foreign language,n
+国,外国人,がいこくじん,foreigner,n
+国,帰国,きこく,return to one's country,"n, vs"
+土,国土,こくど,"country, territory, domain, realm",n
+土,土圭,ときはかり,"watch, clock, timepiece",n
+土,土,つち,"earth, soil ",n
+土,土間,どま ,dirt floor ,n
+土,土産,みやげ ,"present, souvenir",n
+外,案外,あんがい,unexpectedly,"adj-na, n-adv"
+外,以外,いがい ,"with the exception of, excepting",n-adv
+外,意外,いがい,"unexpected, surprising","adj-na, adverb taking the `to' particle, n"
+外,屋外,おくがい,outdoors,n
+外,海外,かいがい,"foreign, abroad, overseas",n
+多,多い,おおい,"many, numerous",adj
+多,多湿,たしつ,high humidity ,"adj-na, n"
+多,多少,たしょう,"more or less, somewhat, a little, some","adj-no, adv, n"
+多,多数,たすう,"great number, countless, majority","n-adv, n, adj-no"
+多,多大,ただい,"heavy, much","adj-na, n"
+大,偉大,いだい,greatness,"adj-na, n"
+大,拡大,かくだい,"magnification, enlargement, expansion","n, vs"
+大,寛大,かんだい,"tolerance, liberality, leniency","adj-na, n"
+大,巨大,きょだい,"huge, gigantic, enormous","adj-na, n"
+大,弘大,こうだい,"huge, very large, vast, extensive, magnificent, grand",adj-na
+天,雨天,うてん,rainy weather ,n
+天,楽天的 ,らくてんてき,optimistic,"adj-na, n"
+天,晴天 ,せいてん,fine weathe,n
+天,先天的,せんてんてき,"a priori, inborn, innate, inheren","adj-na, n"
+天,天,あま ,"sky, heaven",n
+女,悪女 ,あくじょ,"wicked, ugly woman",n
+女,王女,おうじょ,princess,n
+女,処女,しょじょ,"virgin, maiden",n
+女,女,おんな,woman,n
+女,女の児,おんなのコ,girl,n
+子,倚子,いす,"chair, post, office, position",n
+子,羽子,はね,"feather, plume, wing, blade","n, n"
+子,王子,おうじ ,prince,n
+子,格子,こうし,"lattice, grid pattern",n
+子,原子,げんし,atom,n
+学,医学,いがく,"medical science, medicine ",n
+学,化学,ばけがく,"chemistry, chemical (company)",n
+学,科学,かがく,science,n
+学,科学者,かがくしゃ,scientist,n
+学,学位,がくい,(university) degree,n
+安,安易,あんい ,"easy, simple, easy-going","adj-na, n"
+安,安神,あんしん,"relief, peace of mind ","adj-na, n, vs"
+安,安静,あんせい,rest,"adj-na, n"
+安,安全,あんぜん,"safety, security","adj-na, n"
+安,安定,あんてい,"stability, equilibrium","adj-na, n, vs"
+小,最小 ,さいしょう,"smallest, least",
+小,最小限,さいしょうげん,"minimum, lowest ",
+小,縮小,しゅくしょう,"reduction, curtailment","n, vs"
+小,小さい,ちいさい,"small, little, tiny",adj
+小,小雨,こあめ ,"light rain, drizzle",
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

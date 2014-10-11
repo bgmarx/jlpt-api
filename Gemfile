@@ -4,7 +4,7 @@ gem 'rails', '4.1.6'
 gem 'rails-api'
 gem 'active_model_serializers'
 gem 'pg'
-
+gem 'searchkick'
 gem 'spring', :group => :development
 
 gem 'puma'
@@ -43,3 +43,6 @@ group :test do
   gem 'simplecov', :require => false
   gem 'simplecov-rcov', :require => false
 end
+
+gem 'rails_12factor', group: :production
+ruby "2.1.2"
