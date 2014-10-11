@@ -7,7 +7,7 @@ gem 'pg'
 gem 'searchkick'
 gem 'spring', :group => :development
 
-gem 'puma'
+gem 'unicorn'
 gem 'bcrypt-ruby'
 
 group :development do
