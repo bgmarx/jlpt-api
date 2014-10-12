@@ -44,5 +44,7 @@ group :test do
   gem 'simplecov-rcov', :require => false
 end
 
+gem "nokogiri"
+
 gem 'rails_12factor', group: :production
 ruby "2.1.2"

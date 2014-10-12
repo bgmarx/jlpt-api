@@ -151,6 +151,7 @@ GEM
       mime-types (>= 1.16, < 3)
     method_source (0.8.2)
     mime-types (2.3)
+    mini_portile (0.6.0)
     minitest (5.4.2)
     multi_json (1.10.1)
     multi_test (0.1.1)
@@ -162,6 +163,8 @@ GEM
     net-ssh (2.9.1)
     net-ssh-gateway (1.2.0)
       net-ssh (>= 2.6.5)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
     nyan-cat-formatter (0.5.2)
       rspec (>= 2.13)
     pg (0.17.1)
@@ -290,6 +293,7 @@ DEPENDENCIES
   guard-rspec
   guard-spork
   letter_opener
+  nokogiri
   nyan-cat-formatter (~> 0.5.2)
   pg
   quiet_assets
