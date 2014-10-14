@@ -56,8 +56,6 @@ puts ">>> Importing Level 4 Vocabulary"
 
 level_4_vocab = File.expand_path "#{File.dirname(__FILE__)}/../db/csv/level-4-vocabulary.csv"
 
-#=> #<Compound id: nil, kanji_id: nil, word: nil, kana: nil, definition: [], grammar_type: [], created_at: nil, updated_at: nil>
-
 CSV.foreach(level_4_vocab, headers: true) do |row|
   kana         = row[0].strip
   kanji        = row[1].present? ? row[1].strip : "-"
@@ -67,4 +65,19 @@ CSV.foreach(level_4_vocab, headers: true) do |row|
   vocab_4 = Vocabulary.where(kana: kana).first_or_create(level: 4, kana: kana, kanji: kanji, grammar_type: grammar_type, definitions: definition)
   puts vocab_4.inspect
   vocab_4.save!
+end
+
+puts ">>> Importing Level 2 Vocabulary"
+
+level_2_vocab = File.expand_path "#{File.dirname(__FILE__)}/../db/csv/level-2-vocabulary.csv"
+
+CSV.foreach(level_2_vocab, headers: true) do |row|
+  kana         = row[0].present? ? row[0].strip : "-"
+  kanji        = row[1].present? ? row[1].strip : "-"
+  grammar_type = row[2].present? ? row[2].gsub(",",", ").strip : " - "
+  definition   = row[3].present? ? row[3].gsub(",", ", ").strip.split(", ") : "-"
+
+  vocab_2 = Vocabulary.where(kana: kana).first_or_create(level: 2, kana: kana, kanji: kanji, grammar_type: grammar_type, definitions: definition)
+  puts vocab_2.inspect
+  vocab_2.save!
 end
