@@ -137,6 +137,9 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.6.11)
     json (1.8.1)
+    kaminari (0.16.1)
+      actionpack (>= 3.0.0)
+      activesupport (>= 3.0.0)
     kgio (2.9.2)
     launchy (2.4.2)
       addressable (~> 2.3)
@@ -292,6 +295,7 @@ DEPENDENCIES
   guard-livereload
   guard-rspec
   guard-spork
+  kaminari
   letter_opener
   nokogiri
   nyan-cat-formatter (~> 0.5.2)

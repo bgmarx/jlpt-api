@@ -9,6 +9,7 @@ gem 'spring', :group => :development
 
 gem 'unicorn'
 gem 'bcrypt-ruby'
+gem 'kaminari'
 
 group :development do
   gem 'better_errors'
