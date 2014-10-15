@@ -2,7 +2,8 @@ class KanjisController < ApplicationController
   before_action :kanji, only: :show
 
   def index
-    render json: Kanji.all, serializer: KanjiSerializer
+    
+    render json: Kanji.page(params[:page])
   end
 
   def show
